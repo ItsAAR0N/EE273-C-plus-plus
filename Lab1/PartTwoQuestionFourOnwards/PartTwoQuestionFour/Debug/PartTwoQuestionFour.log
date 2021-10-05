@@ -1,0 +1,5 @@
+﻿  PartTwoQuestionFour.cpp
+C:\Users\aaron\Desktop\PartTwoQuestionFour\PartTwoQuestionFour\PartTwoQuestionFour.cpp(10,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aaron\Desktop\PartTwoQuestionFour\PartTwoQuestionFour\PartTwoQuestionFour.cpp(11,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwoQuestionFour\PartTwoQuestionFour\PartTwoQuestionFour.cpp(21,23): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  PartTwoQuestionFour.vcxproj -> C:\Users\aaron\Desktop\PartTwoQuestionFour\Debug\PartTwoQuestionFour.exe
