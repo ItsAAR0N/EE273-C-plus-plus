@@ -1,0 +1,4 @@
+﻿  PartFour.cpp
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartFour\PartFour\PartFour.cpp(40,12): warning C4552: '+': result of expression not used
+  LINK : C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartFour\Debug\PartFour.exe not found or not built by the last incremental link; performing full link
+  PartFour.vcxproj -> C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartFour\Debug\PartFour.exe

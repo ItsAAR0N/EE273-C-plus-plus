@@ -1,0 +1,4 @@
+﻿  PartTwo4.cpp
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartTwo4\PartTwo4\PartTwo4.cpp(11,6): warning C4101: 'i': unreferenced local variable
+  LINK : C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartTwo4\Debug\PartTwo4.exe not found or not built by the last incremental link; performing full link
+  PartTwo4.vcxproj -> C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab2\PartTwo4\Debug\PartTwo4.exe
