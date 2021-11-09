@@ -1,0 +1,5 @@
+﻿  PartOne.cpp
+C:\Users\aaron\Desktop\PartTwoandThree\PartOne\ComplexStructureHeader.h(19,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwoandThree\PartOne\ComplexStructureHeader.h(26,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwoandThree\PartOne\ComplexStructureHeader.h(30,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  PartOne.vcxproj -> C:\Users\aaron\Desktop\PartTwoandThree\Debug\PartOne.exe

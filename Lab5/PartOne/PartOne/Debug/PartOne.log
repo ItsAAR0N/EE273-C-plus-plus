@@ -1,0 +1,6 @@
+﻿  PartOne.cpp
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab5\PartOne\PartOne\PartOne.cpp(9,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab5\PartOne\PartOne\PartOne.cpp(10,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab5\PartOne\PartOne\PartOne.cpp(13,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab5\PartOne\PartOne\PartOne.cpp(14,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PartOne.vcxproj -> C:\Users\aaron\OneDrive - University of Strathclyde\YEAR 2\EE273 Software engineering\Exercises\Lab5\PartOne\Debug\PartOne.exe
