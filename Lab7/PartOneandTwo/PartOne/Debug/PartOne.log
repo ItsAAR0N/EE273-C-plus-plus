@@ -1,0 +1,3 @@
+﻿  PartOne.cpp
+C:\Users\aaron\Desktop\PartOne\PartOne\HeaderPerson.h(10,22): warning C4091: 'typedef ': ignored on left of 'Person' when no variable is declared
+  PartOne.vcxproj -> C:\Users\aaron\Desktop\PartOne\Debug\PartOne.exe
