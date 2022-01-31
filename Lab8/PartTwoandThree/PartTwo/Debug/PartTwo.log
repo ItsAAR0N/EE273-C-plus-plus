@@ -1,0 +1,10 @@
+﻿  PartTwo.cpp
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(42,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(43,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(77,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(83,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(93,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(95,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(126,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aaron\Desktop\PartTwo\PartTwo\ComplexClassHeader.h(127,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PartTwo.vcxproj -> C:\Users\aaron\Desktop\PartTwo\Debug\PartTwo.exe

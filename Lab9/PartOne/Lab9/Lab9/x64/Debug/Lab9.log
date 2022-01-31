@@ -1,0 +1,3 @@
+﻿  Lab9.cpp
+C:\Users\Aaron\Desktop\PartOne\Lab9\Lab9\Lab9.cpp(8,9): warning C4101: 'noofsubjects': unreferenced local variable
+  Lab9.vcxproj -> C:\Users\Aaron\Desktop\PartOne\Lab9\x64\Debug\Lab9.exe
