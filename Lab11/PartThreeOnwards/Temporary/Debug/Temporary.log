@@ -1,0 +1,4 @@
+﻿  Temporary.cpp
+C:\Users\aaron\Desktop\PartThreeOnwards\Temporary\Temporary.cpp(11,6): warning C4101: 'NoStudents': unreferenced local variable
+C:\Users\aaron\Desktop\PartThreeOnwards\Temporary\Temporary.cpp(12,6): warning C4101: 'NoSubjects': unreferenced local variable
+  Temporary.vcxproj -> C:\Users\aaron\Desktop\PartThreeOnwards\Debug\Temporary.exe

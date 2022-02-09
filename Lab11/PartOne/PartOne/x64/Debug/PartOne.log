@@ -1,0 +1,4 @@
+﻿  PartOne.cpp
+C:\Users\aaron\Desktop\PartOne\PartOne\HeaderOne.h(22,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\PartOne\PartOne\PartOne.cpp(14,8): warning C4101: 'averageMark': unreferenced local variable
+  PartOne.vcxproj -> C:\Users\Aaron\Desktop\PartOne\x64\Debug\PartOne.exe
